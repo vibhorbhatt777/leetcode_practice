@@ -6,6 +6,7 @@ C++ and python3 solutions to leetcode.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -14,5 +15,6 @@ C++ and python3 solutions to leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
