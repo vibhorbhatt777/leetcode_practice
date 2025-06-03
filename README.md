@@ -12,6 +12,7 @@ C++ and python3 solutions to leetcode.
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
