@@ -10,6 +10,7 @@ C++ and python3 solutions to leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
@@ -52,4 +53,5 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
