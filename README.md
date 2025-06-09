@@ -7,6 +7,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0053-maximum-subarray) |
@@ -30,6 +31,7 @@ C++ and python3 solutions to leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
@@ -38,6 +40,7 @@ C++ and python3 solutions to leetcode.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 ## Hash Table
