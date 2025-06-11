@@ -10,6 +10,7 @@ C++ and python3 solutions to leetcode.
 | [0015-3sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
@@ -58,6 +59,7 @@ C++ and python3 solutions to leetcode.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
