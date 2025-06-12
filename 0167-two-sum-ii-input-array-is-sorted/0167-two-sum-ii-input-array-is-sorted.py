@@ -5,7 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        # Two Pointer approach
+        # Twin Walker approach - where input data is sorted
         n = len(numbers)
         left, right =0, n-1
         while left< right:
