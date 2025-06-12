@@ -21,6 +21,7 @@ C++ and python3 solutions to leetcode.
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ C++ and python3 solutions to leetcode.
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0908-middle-of-the-linked-list) |
@@ -69,6 +71,7 @@ C++ and python3 solutions to leetcode.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
