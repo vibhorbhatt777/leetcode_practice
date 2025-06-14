@@ -34,6 +34,7 @@ C++ and python3 solutions to leetcode.
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +117,8 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
