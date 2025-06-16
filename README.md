@@ -79,6 +79,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
 | ------- |
