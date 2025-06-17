@@ -90,6 +90,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -128,4 +129,8 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
