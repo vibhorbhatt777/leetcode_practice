@@ -4,19 +4,38 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
-        def helper(ans, s, left, right):
-            if left==0 and right==0:
-                ans.append(s)
-                
-            if left>0:
-                helper(ans, s+'(', left-1, right)
-                
-            if right>0 and left<right:
-                helper(ans, s+')', left, right-1)
+        bracket = [""] * (n * 2)
+        result = []
         
-        ans = []
-        helper(ans, '', n, n)
+        def helper(index, balance, bracket, result):
+            # Base case: if we've filled all positions
+            if index >= len(bracket):
+                if balance == 0:
+                    result.append("".join(bracket))
+                return
+            
+            # If balance is negative, we have more ')' than '(', invalid
+            if balance < 0:
+                return
+            
+            # If balance is greater than remaining positions, impossible to balance
+            if balance > len(bracket) - index:
+                return
+            
+            # Try placing '('
+            bracket[index] = "("
+            helper(index + 1, balance + 1, bracket, result)
+            
+            # Try placing ')'
+            bracket[index] = ")"
+            helper(index + 1, balance - 1, bracket, result)
         
-        return ans
+        helper(0, 0, bracket, result)
+        return result
+
+
+
+
+            
 
         
