@@ -26,6 +26,7 @@ C++ and python3 solutions to leetcode.
 | [0128-longest-consecutive-sequence](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0485-max-consecutive-ones) |
@@ -135,6 +136,7 @@ C++ and python3 solutions to leetcode.
 | [0039-combination-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
 | ------- |
