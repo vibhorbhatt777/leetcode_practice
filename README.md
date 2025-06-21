@@ -39,6 +39,7 @@ C++ and python3 solutions to leetcode.
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ C++ and python3 solutions to leetcode.
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
+| [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -144,4 +147,8 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0022-generate-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
