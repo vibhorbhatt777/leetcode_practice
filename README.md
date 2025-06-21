@@ -37,6 +37,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
@@ -96,6 +97,7 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0022-generate-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
@@ -150,5 +152,6 @@ C++ and python3 solutions to leetcode.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
