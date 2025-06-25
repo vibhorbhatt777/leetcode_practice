@@ -155,6 +155,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -163,4 +164,8 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
