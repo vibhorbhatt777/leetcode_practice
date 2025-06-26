@@ -168,4 +168,9 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
