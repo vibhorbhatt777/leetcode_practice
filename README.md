@@ -34,6 +34,7 @@ C++ and python3 solutions to leetcode.
 | [0485-max-consecutive-ones](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ C++ and python3 solutions to leetcode.
 | [0018-4sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ C++ and python3 solutions to leetcode.
 | [0141-linked-list-cycle](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,4 +176,8 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0155-min-stack) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
