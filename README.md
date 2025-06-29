@@ -33,6 +33,7 @@ C++ and python3 solutions to leetcode.
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [0735-asteroid-collision](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -115,6 +116,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -174,6 +176,7 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
