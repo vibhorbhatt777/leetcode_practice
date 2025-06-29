@@ -31,6 +31,7 @@ C++ and python3 solutions to leetcode.
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
@@ -78,6 +79,7 @@ C++ and python3 solutions to leetcode.
 | [0141-linked-list-cycle](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
 |  |
