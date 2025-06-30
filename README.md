@@ -36,6 +36,7 @@ C++ and python3 solutions to leetcode.
 | [0735-asteroid-collision](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -83,6 +84,7 @@ C++ and python3 solutions to leetcode.
 | [0142-linked-list-cycle-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
 |  |
@@ -193,6 +195,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
