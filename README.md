@@ -38,6 +38,7 @@ C++ and python3 solutions to leetcode.
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -197,8 +198,10 @@ C++ and python3 solutions to leetcode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
