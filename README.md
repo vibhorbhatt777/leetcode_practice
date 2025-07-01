@@ -36,6 +36,7 @@ C++ and python3 solutions to leetcode.
 | [0485-max-consecutive-ones](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0890-lemonade-change](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -157,6 +158,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0890-lemonade-change) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Backtracking
 |  |
