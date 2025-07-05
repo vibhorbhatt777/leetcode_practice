@@ -191,6 +191,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0735-asteroid-collision) |
 ## Design
@@ -213,4 +214,16 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
