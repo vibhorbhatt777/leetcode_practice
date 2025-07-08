@@ -121,6 +121,7 @@ C++ and python3 solutions to leetcode.
 | [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
@@ -219,18 +220,21 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
