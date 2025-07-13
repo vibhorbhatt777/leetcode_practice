@@ -20,6 +20,7 @@ C++ and python3 solutions to leetcode.
 | [0053-maximum-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -74,6 +75,7 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0015-3sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0455-assign-cookies) |
