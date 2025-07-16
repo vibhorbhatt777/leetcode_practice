@@ -41,6 +41,7 @@ C++ and python3 solutions to leetcode.
 | [0890-lemonade-change](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
+| [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -146,6 +147,7 @@ C++ and python3 solutions to leetcode.
 | [0054-spiral-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -242,4 +244,5 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
