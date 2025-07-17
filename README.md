@@ -52,6 +52,7 @@ C++ and python3 solutions to leetcode.
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -186,6 +187,7 @@ C++ and python3 solutions to leetcode.
 | [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
+| [0227-basic-calculator-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Memoization
 |  |
@@ -198,6 +200,7 @@ C++ and python3 solutions to leetcode.
 | [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [0735-asteroid-collision](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
