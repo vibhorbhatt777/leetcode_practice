@@ -190,6 +190,7 @@ C++ and python3 solutions to leetcode.
 | [0022-generate-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0227-basic-calculator-ii) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Memoization
 |  |
