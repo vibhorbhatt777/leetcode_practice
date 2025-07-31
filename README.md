@@ -16,6 +16,7 @@ C++ and python3 solutions to leetcode.
 | [0039-combination-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0054-spiral-matrix) |
@@ -78,6 +79,7 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0015-3sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
@@ -89,6 +91,7 @@ C++ and python3 solutions to leetcode.
 | [0001-two-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0141-linked-list-cycle) |
@@ -188,6 +191,7 @@ C++ and python3 solutions to leetcode.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
