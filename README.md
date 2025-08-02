@@ -235,6 +235,7 @@ C++ and python3 solutions to leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -242,6 +243,7 @@ C++ and python3 solutions to leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -250,11 +252,13 @@ C++ and python3 solutions to leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
