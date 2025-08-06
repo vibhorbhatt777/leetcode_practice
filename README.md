@@ -30,6 +30,7 @@ C++ and python3 solutions to leetcode.
 | [0128-longest-consecutive-sequence](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ C++ and python3 solutions to leetcode.
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
@@ -261,4 +263,12 @@ C++ and python3 solutions to leetcode.
 | [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
