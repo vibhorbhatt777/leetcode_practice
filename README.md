@@ -32,6 +32,7 @@ C++ and python3 solutions to leetcode.
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
@@ -232,6 +233,7 @@ C++ and python3 solutions to leetcode.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Tree
