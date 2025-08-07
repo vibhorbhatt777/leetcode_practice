@@ -28,6 +28,7 @@ C++ and python3 solutions to leetcode.
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0204-count-primes) |
@@ -136,6 +137,7 @@ C++ and python3 solutions to leetcode.
 | [0115-distinct-subsequences](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
