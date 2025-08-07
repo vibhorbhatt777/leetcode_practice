@@ -44,6 +44,7 @@ C++ and python3 solutions to leetcode.
 | [0890-lemonade-change](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0940-fruit-into-baskets) |
+| [1019-squares-of-a-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -75,6 +76,7 @@ C++ and python3 solutions to leetcode.
 | [0283-move-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@ C++ and python3 solutions to leetcode.
 | [0088-merge-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
 |  |
