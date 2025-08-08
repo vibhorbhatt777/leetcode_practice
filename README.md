@@ -245,6 +245,7 @@ C++ and python3 solutions to leetcode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -253,6 +254,7 @@ C++ and python3 solutions to leetcode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -262,6 +264,7 @@ C++ and python3 solutions to leetcode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
