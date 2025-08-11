@@ -12,6 +12,7 @@ class Solution(object):
             x, y = queue.popleft()
             for dx, dy in [(-1,0),(0,-1),(0,1),(1,0)]:
                 new_i, new_j = x + dx, y + dy
+                # maze ke bahar chae gaye t0
                 if new_i < 0 or new_j < 0 or new_i >= rows or new_j >= cols:
                     continue
                 if grid[new_i][new_j] == "0":
@@ -20,6 +21,22 @@ class Solution(object):
                     continue
                 visited[new_i][new_j] = 1
                 queue.append((new_i, new_j))
+    def dfs(self,i,j,visited,grid):
+        if i<0 or j<0 or i>=len(grid) or j>=len(grid[0]):
+            return
+        if grid[i][j]=="0":
+            return
+        if visited[i][j] == 1:
+            return 
+        visited[i][j]=1
+        self.dfs(i+1,j,visited,grid)
+        self.dfs(i-1,j,visited,grid)
+        self.dfs(i,j-1,visited,grid)
+        self.dfs(i,j+1,visited,grid)
+
+        
+
+
 
     def numIslands(self, grid):
         count = 0
@@ -31,6 +48,6 @@ class Solution(object):
             for c in range(cols):
                 if grid[r][c] == "1" and visited[r][c] == 0:
                     count += 1
-                    self.bfs(r, c, visited, grid)
+                    self.dfs(r, c, visited, grid)
         
         return count
