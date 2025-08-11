@@ -31,6 +31,7 @@ C++ and python3 solutions to leetcode.
 | [0152-maximum-product-subarray](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0238-product-of-array-except-self) |
@@ -153,12 +154,14 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
@@ -253,6 +256,7 @@ C++ and python3 solutions to leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
@@ -270,6 +274,7 @@ C++ and python3 solutions to leetcode.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1036-rotting-oranges) |
