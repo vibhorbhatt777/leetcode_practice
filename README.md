@@ -63,6 +63,7 @@ C++ and python3 solutions to leetcode.
 | [0227-basic-calculator-ii](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1236-n-th-tribonacci-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@ C++ and python3 solutions to leetcode.
 | [0377-combination-sum-iv](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ C++ and python3 solutions to leetcode.
 | ------- |
 | [0070-climbing-stairs](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vibhorbhatt777/leetcode_practice/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
